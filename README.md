@@ -180,13 +180,14 @@ After this the docker initialization starts and u can visit docker-desktop for t
 
 ### 📦 3. Insert dataset into MySQL (one-time setup)
 In another terminal inside /backend folder, run:
+## (Important) 
+✅ This step must be done only once after containers are up.
 ```
 docker exec -it backend_app bash
 node ingest.js
 ```
 This loads the CSV data into MySQL.
-## (Important) 
-✅ This step must be done only once after containers are up.
+
 
 ### ✅ 4. Access the application
 Frontend: http://localhost:5173
