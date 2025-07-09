@@ -271,6 +271,19 @@ Go to http://localhost:5173
 ✅ Predict category using ML for new descriptions
 ✅ Severity score visualization
 ```
+## 📸 UI Screenshots
+
+### 🔐 Login Page
+![Login](https://drive.google.com/uc?export=view&id=1fwwZq1Hb0QUG8yGBJ0kXdUjv6nI4C9nm)
+
+### 📊 Dashboard
+![Dashboard](https://drive.google.com/uc?export=view&id=1MikAzWizOETtkNVHJ09ELO-mrPkHMieb)
+
+### 🛡️ Threats List
+![Threats](https://drive.google.com/uc?export=view&id=1n4KZeDNz7bkaKSZbEDKVaSUorWvqy31i)
+
+### 🤖 Analyze Threat (ML Prediction)
+![Analyze](https://drive.google.com/uc?export=view&id=1mQEguNultyjSzZd4nayNV38-8rZ5gFn6)
 
 
 ## 🧑‍💻 Author
