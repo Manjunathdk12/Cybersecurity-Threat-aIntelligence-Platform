@@ -274,11 +274,15 @@ Go to http://localhost:5173
 
 
 ## 🧑‍💻 Author
+```
 Manjunath
 Cybersecurity Intern – PES University
-GitHub: @your-username
+GitHub: @Manjunathdk12
+```
 
 ## 📜 License
+```
 MIT Licence
-This project is intended for educational and demo purposes 
+This project is intended for educational and demo purposes
+```
 
