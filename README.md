@@ -212,7 +212,7 @@ npm install
 DB_HOST=localhost
 DB_USER=root
 DB_PASS=your_password
-DB_NAME=threats_db
+DB_NAME=xxx
 PORT=5000
 JWT_SECRET=your_jwt_secret
 ```
